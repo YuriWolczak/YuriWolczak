@@ -1,10 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Eu sou Yuri Walczak
+# Olá, eu sou Yuri Walczak 👋
 
-### Desenvolvedor Back-end | Python | FastAPI | APIs REST | PostgreSQL
+## Desenvolvedor Back-end | Python | FastAPI | PostgreSQL | APIs REST
 
-Sou desenvolvedor focado em criar sistemas escaláveis, APIs REST, automações e soluções que resolvem problemas reais.
+Sou desenvolvedor apaixonado por tecnologia e por criar soluções que resolvem problemas reais.
 
-Tenho experiência no desenvolvimento de aplicações utilizando Python, FastAPI, bancos de dados relacionais e integrações entre diferentes plataformas. Atualmente estou expandindo meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento e aplicações SaaS.
+Atualmente foco no desenvolvimento de aplicações back-end utilizando Python, FastAPI, PostgreSQL, MySQL e integração entre sistemas. Estou sempre buscando evoluir minhas habilidades em arquitetura de software, boas práticas e desenvolvimento de produtos SaaS.
 
 ---
 
@@ -12,120 +12,147 @@ Tenho experiência no desenvolvimento de aplicações utilizando Python, FastAPI
 
 ### Linguagens
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### Frameworks e Ferramentas
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,linux,postgres,mysql,vscode" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,git,github,linux,vscode" />
 </p>
 
 ---
 
 # 📚 Atualmente estudando
 
-* Arquitetura de Software
-* Clean Architecture
-* Docker
-* Testes Automatizados
-* Design Patterns
-* Microsserviços
+- Arquitetura de Software
+- Clean Architecture
+- Docker
+- Testes Automatizados
+- Design Patterns
+- Microsserviços
 
 ---
 
-# 💼 Projetos em desenvolvimento
+# 💼 Projetos em destaque
 
-## 🔹 Nexora Systems
+## 🚀 Nexora Systems
 
 Plataforma SaaS para integração entre Discord, APIs e servidores FiveM.
 
-### Principais recursos
+### Principais tecnologias
 
-* Sistema de autenticação
-* API REST
-* Banco PostgreSQL
-* Integração Discord
-* Sistema de permissões
-* Automações
-
-Tecnologias
-
-Python • FastAPI • PostgreSQL • Discord.py
+- Python
+- FastAPI
+- PostgreSQL
+- Discord.py
+- REST API
 
 ---
 
-## 🔹 Sistema de Gestão de Locações
+## 🏠 Sistema de Gestão de Locações
 
-Sistema para gerenciamento completo de imóveis.
+Sistema para administração completa de imóveis.
 
-Recursos
+### Recursos
 
-* Proprietários
-* Locatários
-* Contratos
-* Recebimentos
-* Despesas
-* Relatórios
-* Dashboard
+- Cadastro de imóveis
+- Proprietários
+- Locatários
+- Contratos
+- Recebimentos
+- Despesas
+- Dashboard
+- Relatórios
 
 ---
 
-## 🔹 Auron
+## ⚡ Auron
 
-Sistema inteligente para monitoramento residencial utilizando sensores e inteligência artificial.
+Sistema inteligente para monitoramento residencial de consumo de energia utilizando sensores e inteligência artificial.
 
-Objetivos
+### Objetivos
 
-* Monitoramento de energia
-* Alertas inteligentes
-* Histórico de consumo
-* Dashboard
-* IA para análise de dados
+- Monitoramento em tempo real
+- Histórico de consumo
+- Alertas inteligentes
+- Dashboard
+- IA para análise de dados
 
 ---
 
 # 📊 Estatísticas
 
-<div align="center">
+<p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YuriWolczak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YuriWolczak&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriWolczak&layout=compact&langs_count=8&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriWolczak&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🔥 Sequência de contribuições
+# 🔥 Sequência de Contribuições
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriWolczak&theme=github-dark-blue"/>
+<img src="https://streak-stats.demolab.com?user=YuriWolczak&theme=github-dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 Objetivos
 
-* Construir soluções escaláveis
-* Desenvolver produtos SaaS
-* Criar APIs robustas
-* Compartilhar conhecimento
-* Evoluir continuamente como desenvolvedor
+- Desenvolver soluções escaláveis
+- Criar produtos SaaS
+- Construir APIs robustas
+- Aprimorar arquitetura de software
+- Evoluir continuamente como desenvolvedor
 
 ---
 
 # 📫 Contato
 
-<p>
+<p align="left">
 
 <a href="mailto:yuriwalczak98@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/yuri-lincoln-furtado-de-castro-walczak-2b46962a5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribuições
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YuriWolczak/YuriWolczak/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</p>
+
+---
+
+# 💡 Filosofia
+
+> "A tecnologia tem mais valor quando resolve problemas reais. Meu objetivo é desenvolver soluções úteis, escaláveis e bem estruturadas."
+
+---
+
+<p align="center">
+
+### Obrigado por visitar meu perfil!
+
+Se algum projeto chamou sua atenção, fique à vontade para explorar meus repositórios ou entrar em contato.
+
+</p>
 <a href="https://www.linkedin.com/in/yuri-lincoln-furtado-de-castro-walczak-2b46962a5">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
