@@ -1,30 +1,40 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Yuri Walczak Banner" width="100%">
+  <img src="./assets/banner.png" alt="Banner Yuri Walczak" width="100%" />
 </p>
 
-<h1 align="center">Olá, eu sou Yuri Walczak 👋</h1>
+<h1 align="center">Olá! Eu sou Yuri Walczak 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Back-end • Python • FastAPI • PostgreSQL • APIs REST</strong>
+  <strong>Desenvolvedor Back-end</strong>
 </p>
 
 <p align="center">
-  Desenvolvendo soluções escaláveis, APIs robustas e sistemas que resolvem problemas reais.
+  Python • FastAPI • PostgreSQL • APIs REST • Automação • Integração de Sistemas
+</p>
+
+<p align="center">
+  <a href="mailto:yuriwalczak98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/yuri-lincoln-furtado-de-castro-walczak-2b46962a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-Sou desenvolvedor apaixonado por tecnologia e desenvolvimento de software.
+Sou desenvolvedor Back-end apaixonado por tecnologia e por criar soluções que resolvem problemas reais.
 
-Meu foco é construir aplicações back-end modernas, APIs REST, automações e sistemas escaláveis utilizando Python.
+Meu foco é desenvolver aplicações escaláveis utilizando Python, FastAPI, PostgreSQL e integrações entre sistemas.
 
-Atualmente estou desenvolvendo projetos próprios enquanto aprofundo meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento e engenharia de sistemas.
+Atualmente estou aprofundando meus conhecimentos em arquitetura de software, APIs REST, boas práticas de desenvolvimento e construção de produtos SaaS.
 
 ---
 
-## 💻 Stack Principal
+# 💻 Tecnologias
 
 <p align="center">
 
@@ -34,7 +44,7 @@ Atualmente estou desenvolvendo projetos próprios enquanto aprofundo meus conhec
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Atualmente estudando
 
 - Arquitetura de Software
 - Clean Architecture
@@ -45,78 +55,80 @@ Atualmente estou desenvolvendo projetos próprios enquanto aprofundo meus conhec
 
 ---
 
-# 📊 Estatísticas
+# 📈 Estatísticas
 
 <p align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=YuriWolczak&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriWolczak&layout=compact&theme=github_dark&hide_border=true"
-/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YuriWolczak&theme=github-dark&hide_border=true"/>
 
 </p>
 
----
-
-# 🔥 Sequência de contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YuriWolczak&theme=github-dark&hide_border=true"/>
-
-</p>
+> ⚠️ As estatísticas de linguagens e commits estão temporariamente indisponíveis devido à indisponibilidade do serviço público que as fornecia. Serão reativadas quando configuradas em uma nova instância.
 
 ---
 
-# 🚀 Projetos em destaque
+# 🚀 Projeto em destaque
 
 ## Nexora Systems
 
-Sistema SaaS voltado para integração entre Discord, APIs e servidores FiveM.
+Plataforma SaaS desenvolvida para integrar Discord, APIs e servidores FiveM.
 
-### Tecnologias
+### Principais funcionalidades
+
+- API REST
+- Sistema de autenticação
+- Controle de permissões
+- Integração com Discord
+- Banco de dados PostgreSQL
+- Estrutura escalável
+- Arquitetura modular
+
+### Tecnologias utilizadas
 
 - Python
 - FastAPI
 - PostgreSQL
 - Discord.py
 - REST API
+- Git
 
 ---
 
-## Sistema de Gestão de Locações
+# 🎯 Objetivos
 
-Sistema para gerenciamento de imóveis, proprietários, contratos, despesas e recebimentos.
-
-### Recursos
-
-- Cadastro de imóveis
-- Proprietários
-- Locatários
-- Contratos
-- Dashboard
-- Relatórios
-- Controle financeiro
+- Desenvolver soluções escaláveis.
+- Construir produtos SaaS.
+- Criar APIs modernas e bem documentadas.
+- Evoluir continuamente como desenvolvedor.
+- Compartilhar conhecimento através dos meus projetos.
 
 ---
 
-## Auron
+# 🐍 Contribuições
 
-Sistema inteligente de monitoramento residencial utilizando sensores e inteligência artificial.
+<p align="center">
 
-### Objetivos
+<img src="https://raw.githubusercontent.com/YuriWolczak/YuriWolczak/output/github-contribution-grid-snake.svg"/>
 
-- Monitoramento de energia
-- Histórico de consumo
-- Alertas inteligentes
-- Dashboard
-- Inteligência Artificial
+</p>
 
+---
+
+# 💡 Filosofia
+
+> "Acredito que tecnologia de qualidade é aquela que resolve problemas reais com simplicidade, organização e escalabilidade."
+
+---
+
+<p align="center">
+
+### Obrigado pela visita!
+
+Se algum projeto despertou seu interesse, fique à vontade para explorar meus repositórios ou entrar em contato.
+
+⭐ Sempre aberto a aprender, colaborar e desenvolver novas soluções.
+
+</p>
 ---
 
 # 🎯 Objetivos
