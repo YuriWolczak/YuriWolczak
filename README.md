@@ -1,98 +1,149 @@
-# Yuri Walczak 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Eu sou Yuri Walczak
 
-**Desenvolvedor Back-end | Python | FastAPI | PostgreSQL | APIs REST | Automação**
+### Desenvolvedor Back-end | Python | FastAPI | APIs REST | PostgreSQL
 
-Bem-vindo ao meu GitHub!
+Sou desenvolvedor focado em criar sistemas escaláveis, APIs REST, automações e soluções que resolvem problemas reais.
 
-Sou desenvolvedor apaixonado por tecnologia e por criar soluções que resolvem problemas reais. Meu foco está no desenvolvimento de aplicações back-end, APIs REST, automações e sistemas escaláveis utilizando Python.
-
-Atualmente estou aprimorando minhas habilidades através do desenvolvimento de projetos próprios, sempre buscando escrever código limpo, organizado e de fácil manutenção.
+Tenho experiência no desenvolvimento de aplicações utilizando Python, FastAPI, bancos de dados relacionais e integrações entre diferentes plataformas. Atualmente estou expandindo meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento e aplicações SaaS.
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 ### Linguagens
 
 <p>
-<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### Frameworks e Ferramentas
 
 <p>
-<img align="center" alt="FastAPI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-<img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,linux,postgres,mysql,vscode" />
 </p>
 
 ---
 
-## 📌 Projetos em destaque
+# 📚 Atualmente estudando
 
-### Nexora Systems
-
-Sistema SaaS para integração entre Discord, APIs e servidores FiveM.
-
-**Principais tecnologias**
-
-* Python
-* FastAPI
-* PostgreSQL
-* Discord.py
-* REST API
+* Arquitetura de Software
+* Clean Architecture
+* Docker
+* Testes Automatizados
+* Design Patterns
+* Microsserviços
 
 ---
 
-### Sistema de Gestão de Locações
+# 💼 Projetos em desenvolvimento
 
-Sistema voltado para administração de imóveis, contratos, proprietários, locatários, despesas e recebimentos.
+## 🔹 Nexora Systems
+
+Plataforma SaaS para integração entre Discord, APIs e servidores FiveM.
+
+### Principais recursos
+
+* Sistema de autenticação
+* API REST
+* Banco PostgreSQL
+* Integração Discord
+* Sistema de permissões
+* Automações
+
+Tecnologias
+
+Python • FastAPI • PostgreSQL • Discord.py
 
 ---
 
-### Auron
+## 🔹 Sistema de Gestão de Locações
 
-Projeto de monitoramento inteligente de consumo residencial utilizando hardware e inteligência artificial.
+Sistema para gerenciamento completo de imóveis.
+
+Recursos
+
+* Proprietários
+* Locatários
+* Contratos
+* Recebimentos
+* Despesas
+* Relatórios
+* Dashboard
 
 ---
 
-## 📈 Estatísticas
+## 🔹 Auron
+
+Sistema inteligente para monitoramento residencial utilizando sensores e inteligência artificial.
+
+Objetivos
+
+* Monitoramento de energia
+* Alertas inteligentes
+* Histórico de consumo
+* Dashboard
+* IA para análise de dados
+
+---
+
+# 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/YuriWolczak">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriWolczak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriWolczak&layout=compact&langs_count=8&theme=github_dark"/>
-  </a>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YuriWolczak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriWolczak&layout=compact&langs_count=8&theme=github_dark"/>
+
 </div>
 
 ---
 
-## 📫 Contato
+# 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriWolczak&theme=github-dark-blue"/>
+
+</div>
+
+---
+
+# 🏆 Objetivos
+
+* Construir soluções escaláveis
+* Desenvolver produtos SaaS
+* Criar APIs robustas
+* Compartilhar conhecimento
+* Evoluir continuamente como desenvolvedor
+
+---
+
+# 📫 Contato
 
 <p>
+
 <a href="mailto:yuriwalczak98@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yuri-lincoln-furtado-de-castro-walczak-2b46962a5">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
+
+---
+
+# 💡 Filosofia
+
+> **"A tecnologia tem mais valor quando resolve problemas reais. Meu objetivo é desenvolver soluções úteis, escaláveis e bem estruturadas."**
 
 ---
 
 <div align="center">
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+### Obrigado pela visita!
+
+Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios ou entrar em contato.
 
 </div>
-
----
-
-⭐ Obrigado por visitar meu perfil!
