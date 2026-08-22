@@ -51,15 +51,17 @@ Atualmente, estou aprofundando meus conhecimentos em arquitetura de software, AP
 
 ## Projetos em destaque
 
+### [Know How](https://github.com/YuriWolczak/KnowHow)
+
+Biblioteca técnica, progressiva e navegável para aprender programação, desenvolvimento de software e tecnologia. O projeto organiza fundamentos, linguagens, ferramentas, exercícios, desafios e projetos em trilhas de aprendizado contínuo.
+
+[Explorar a trilha inicial de fundamentos](https://github.com/YuriWolczak/KnowHow/blob/main/fundamentals/README.md)
+
 ### Nexora Systems
 
 Plataforma SaaS desenvolvida para integrar Discord, APIs e servidores FiveM, com foco em autenticação, controle de permissões, integração com Discord, PostgreSQL e arquitetura modular.
 
 **Tecnologias:** Python · FastAPI · PostgreSQL · Discord.py · REST API · Git
-
-### [Knowledge Base](https://github.com/YuriWolczak/knowledge-base)
-
-Biblioteca de conhecimento sobre programação, desenvolvimento de software e tecnologia, com tutoriais, exercícios, desafios e projetos práticos.
 
 ## Objetivos
 
