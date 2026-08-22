@@ -46,7 +46,7 @@ Atualmente, estou aprofundando meus conhecimentos em arquitetura de software, AP
 ## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=YuriWolczak&theme=github-dark&hide_border=true" alt="Estatísticas de sequência de contribuições de Yuri Walczak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YuriWolczak&theme=github-dark&hide_border=true" alt="Estatísticas de sequência de contribuições de Yuri Walczak" />
 </p>
 
 ## Projetos em destaque
