@@ -1,27 +1,33 @@
-name: Generate Snake
+name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: YuriWolczak
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Publish Snake
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Publish snake
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+          force_orphan: true

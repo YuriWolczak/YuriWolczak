@@ -1,131 +1,90 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner Yuri Walczak" width="100%" />
+  <img src="./assets/banner.svg" alt="Yuri Walczak — Desenvolvedor Back-end" width="100%" />
 </p>
 
-<h1 align="center">Olá! Eu sou Yuri Walczak 👋</h1>
+<h1 align="center">Olá, eu sou Yuri Walczak</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Back-end</strong>
-</p>
-
-<p align="center">
-  Python • FastAPI • PostgreSQL • APIs REST • Automação • Integração de Sistemas
+  <strong>Desenvolvedor Back-end</strong><br />
+  Python · FastAPI · PostgreSQL · APIs REST · Automação · Integração de Sistemas
 </p>
 
 <p align="center">
   <a href="mailto:yuriwalczak98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar um e-mail" />
   </a>
-
   <a href="https://www.linkedin.com/in/yuri-lincoln-furtado-de-castro-walczak-2b46962a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil no LinkedIn" />
   </a>
 </p>
 
 ---
 
-# 🚀 Sobre mim
+## Sobre mim
 
-Sou desenvolvedor Back-end apaixonado por tecnologia e por criar soluções que resolvem problemas reais.
+Sou desenvolvedor back-end apaixonado por tecnologia e por criar soluções que resolvem problemas reais. Meu foco é construir aplicações escaláveis com **Python, FastAPI, PostgreSQL** e integrações entre sistemas.
 
-Meu foco é desenvolver aplicações escaláveis utilizando Python, FastAPI, PostgreSQL e integrações entre sistemas.
+Atualmente, estou aprofundando meus conhecimentos em arquitetura de software, APIs REST, boas práticas de desenvolvimento e construção de produtos SaaS.
 
-Atualmente estou aprofundando meus conhecimentos em arquitetura de software, APIs REST, boas práticas de desenvolvimento e construção de produtos SaaS.
-
----
-
-# 💻 Tecnologias
+## Tecnologias
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,git,github,linux,vscode,html,css,js" />
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,git,github,linux,vscode,html,css,js" alt="Python, FastAPI, PostgreSQL, MySQL, Git, GitHub, Linux, VS Code, HTML, CSS e JavaScript" />
 </p>
 
----
+## Atualmente estudando
 
-# 📚 Atualmente estudando
+| Tema | Objetivo |
+| --- | --- |
+| Arquitetura de software | Projetar sistemas mais organizados, escaláveis e fáceis de manter. |
+| Clean Architecture | Separar responsabilidades e reduzir o acoplamento entre componentes. |
+| Docker | Padronizar ambientes de desenvolvimento e implantação. |
+| Microsserviços | Entender estratégias de decomposição e comunicação entre serviços. |
+| Testes automatizados | Aumentar a confiabilidade e a qualidade do código. |
+| Design Patterns | Aplicar soluções reutilizáveis para problemas recorrentes. |
 
-- Arquitetura de Software
-- Clean Architecture
-- Docker
-- Microsserviços
-- Testes Automatizados
-- Design Patterns
-
----
-
-# 📈 Estatísticas
+## Estatísticas
 
 <p align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YuriWolczak&theme=github-dark&hide_border=true"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=YuriWolczak&theme=github-dark&hide_border=true" alt="Estatísticas de sequência de contribuições de Yuri Walczak" />
 </p>
 
-> ⚠️ As estatísticas de linguagens e commits estão temporariamente indisponíveis devido à indisponibilidade do serviço público que as fornecia. Serão reativadas quando configuradas em uma nova instância.
+## Projetos em destaque
 
----
+### Nexora Systems
 
-# 🚀 Projeto em destaque
+Plataforma SaaS desenvolvida para integrar Discord, APIs e servidores FiveM, com foco em autenticação, controle de permissões, integração com Discord, PostgreSQL e arquitetura modular.
 
-## Nexora Systems
+**Tecnologias:** Python · FastAPI · PostgreSQL · Discord.py · REST API · Git
 
-Plataforma SaaS desenvolvida para integrar Discord, APIs e servidores FiveM.
+### [Knowledge Base](https://github.com/YuriWolczak/knowledge-base)
 
-### Principais funcionalidades
+Biblioteca de conhecimento sobre programação, desenvolvimento de software e tecnologia, com tutoriais, exercícios, desafios e projetos práticos.
 
-- API REST
-- Sistema de autenticação
-- Controle de permissões
-- Integração com Discord
-- Banco de dados PostgreSQL
-- Estrutura escalável
-- Arquitetura modular
+## Objetivos
 
-### Tecnologias utilizadas
-
-- Python
-- FastAPI
-- PostgreSQL
-- Discord.py
-- REST API
-- Git
-
----
-
-# 🎯 Objetivos
-
-- Desenvolver soluções escaláveis.
-- Construir produtos SaaS.
-- Criar APIs modernas e bem documentadas.
+- Desenvolver soluções escaláveis e bem documentadas.
+- Construir produtos SaaS que resolvam problemas concretos.
+- Criar APIs modernas, seguras e fáceis de integrar.
 - Evoluir continuamente como desenvolvedor.
-- Compartilhar conhecimento através dos meus projetos.
+- Compartilhar conhecimento por meio dos meus projetos.
 
----
-
-# 🐍 Contribuições
+## Contribuições
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YuriWolczak/YuriWolczak/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/YuriWolczak/YuriWolczak/output/github-contribution-grid-snake.svg" alt="Animação das contribuições de Yuri Walczak" width="100%" />
 </p>
 
----
+## Filosofia
 
-# 💡 Filosofia
-
-> "Acredito que tecnologia de qualidade é aquela que resolve problemas reais com simplicidade, organização e escalabilidade."
+> Tecnologia de qualidade é aquela que resolve problemas reais com simplicidade, organização e escalabilidade.
 
 ---
 
 <p align="center">
+  Obrigado pela visita. Fique à vontade para explorar meus repositórios ou entrar em contato.
+</p>
 
-### Obrigado pela visita!
-
-Se algum projeto despertou seu interesse, fique à vontade para explorar meus repositórios ou entrar em contato.
-
-⭐ Sempre aberto a aprender, colaborar e desenvolver novas soluções.
-
+<p align="center">
+  <strong>Sempre aberto a aprender, colaborar e desenvolver novas soluções.</strong>
 </p>
